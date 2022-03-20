@@ -3,6 +3,6 @@
 exports.handler = async function (event, context) {
   return {
     statusCode: 200,
-    body: "hello shanto boss",
+    body: "hello Shanto",
   };
 };
